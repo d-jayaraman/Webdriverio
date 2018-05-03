@@ -23,3 +23,6 @@ Once your tools are configured, download the project and navigate to the root di
 ## Running Tests
 * `npm test`
 * `npm test:chrome:local`
+
+##Allure Repor
+* Run 'allure generate .\allure-results\ --clean' to convert allure-results into report
