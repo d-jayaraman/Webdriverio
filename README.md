@@ -25,5 +25,6 @@ Once your tools are configured, download the project and navigate to the root di
 * `npm test:chrome:local`
 
 ##Allure Reports
-
+npm install wdio-allure-reporter --save-dev
+npm install allure-commandline --save-dev
 * Run 'allure generate .\allure-results\ --clean ; .\node_modules\.bin\allure open' to open allure reports
